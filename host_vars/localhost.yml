@@ -2,5 +2,4 @@
 apt_packages:
   - git
   - git-flow
-  - ansible
   - vim
