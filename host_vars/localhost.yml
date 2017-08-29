@@ -3,3 +3,10 @@ apt_packages:
   - git
   - git-flow
   - vim
+  - nodejs
+  - npm
+  - alsa-utils
+  - build-essential
+  - zlib1g-dev
+  - libsdl2-dev
+  - libasound2-dev
